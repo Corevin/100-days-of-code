@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 2: March 30, 2018
+### Day 3: March 31, 2018
 
 **Today's Progress**: Went back and read some more of the tutorialspoint pages, which do not line up exactly with the codecademy tutorial. I don't think that is necessarily a bad thing. I did go through the if/else statements and case stsatemetns in the tutorial which lined up with the codecademy stuff, but then it went into classes for number, character and strings. 
 
