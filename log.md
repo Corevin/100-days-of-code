@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 5: April 3, 2018
+
+**Today's Progress**: Flew through the remainder of the tutorial that i was working on in codecademy this morning. Literally took me like 5 minutes. From there I went on to the freeform project, a calculator that adds, subracts, multiplies, divides, and provides remainders of 2 values passed in within the program. Followed their directions and it doesn't work. I think I cleaned up most if not all the syntax stuff but it still isn't working. I think it has something to do with how I'm passing the variables back and forth.  
+
+**Thoughts:** Kind of frustrated with how codecademy has me building this calculator. It isn't how I would do it. I'd build the main method and the "add" method. Once I get those 2 working, I'd add in "subtract" and so on and so forth, building it as if it was a set of blocks. Instead, following their directions you build everything and have to make it all work at once. Seems like a horrible way to build anything as you don't always know which block you have broken stuff in. I think when I go back to this again (likely later today because it is bugging me), I will go back and do it my way. I hope I get better results than banging my head against the wall. First though, I need to read about how and where to create variables. I bet I am doing it wrong because right now I am creating the 2 same variables over and over in each of the methods to do the math. This seems like a dumb way to do it, and I bet is part of my problem.
+
+**Link to work:** [Tutorial online]  :: https://www.codecademy.com
+
+
 ### Day 4: April 2, 2018
 
 **Today's Progress**: Quickly built out an interest calculator for a car loan on codecademy this morning. It didn't take long and I learned that while codecademy will take the input class in, it won't allow you to use it in their online IDE. I had wanted to take in the values for loan, interest rate, term, etc. but had to just go with setting the variables in the code. Then went on to begin learning about object oriented programming. 
