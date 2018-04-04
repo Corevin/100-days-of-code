@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 6: April 4, 2018
+
+**Today's Progress**: Completed the Calculator program on Codecademy. It was how I was passing the integers into the method. I was using: "public int add(a, b): when I should have been "public int add(int a, int b)". From there I cleaned up the rest of the syntax errors, ran the project and went on and did the next quiz. Started working on Arrays before realizing that there is another project for me to do so I will need to go back and do that tomorrow.
+
+**Thoughts:** Because I couldn't figure it out I ended up using the tried and true Google method to get the answer to my struggles with the calculator program. The thing I saw was like I thought, most people suggested to cut the code into small bite sized chunks and clear out the errors, make it work and move to the next chunk. It is good and vindicating to know that I have the right idea on something.
+
+I also started reading a Java book "Java in 24 hours" last night. got through the first hour in no time flat, since it mostly tells me why I should code, something I know already. I also went through the section on setting up and preparing to code. The book suggests netbeans which I couldn't get to work when I tried it in the past, but I am fine using Eclipse, so I don't suspect that I will have trouble moving forward. I'll probably attack the second chapter after I finish the tutorials on codecademy since there isn't much left already. When I looked at the end of my work today I was already 66% through the tutorial. I'll probably be done within the week at the rate I'm going.
+
+**Link to work:** [Tutorial online]  :: https://www.codecademy.com
+
 ### Day 5: April 3, 2018
 
 **Today's Progress**: Flew through the remainder of the tutorial that i was working on in codecademy this morning. Literally took me like 5 minutes. From there I went on to the freeform project, a calculator that adds, subracts, multiplies, divides, and provides remainders of 2 values passed in within the program. Followed their directions and it doesn't work. I think I cleaned up most if not all the syntax stuff but it still isn't working. I think it has something to do with how I'm passing the variables back and forth.  
