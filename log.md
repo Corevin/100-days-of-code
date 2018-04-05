@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+
+### Day 7: April 5, 2018
+
+**Today's Progress**: Built a simple "Droid" that kept track of battery life while it hovered and recharged the battery. Went on and did some quick lessons on ArrayList, For Loops, For Each loops. Took a look at HackerEarth and did the first 3 challenges with no problem. Stuck on the 4th challenge which is to report out the square of an array. They give the array code and I just need to do the math and print it out. Not sure what I'm missing. Will have to look more at it. On Codecademy, I am 80% done with their only Java tutorial, just 2 
+
+**Thoughts:** On Codecademy, I am 80% done with their only Java tutorial, just 2 freeform"ish" projects to go. I really am not feeling like I am ready to go beyond. I have seen some basics of stuff, but it doesn't really feel like I have put it all together at all. I seriously need to find more stuff to build for practice. 
+
+On another note, I can't believe it has been a week already. That is a good start for me I would say, I wouldn't have thought at the beginning of this that I even would have gotten through the first week of this coding challenge. Let's see how far I get!
+
+
+**Link to work:** [Tutorial online]  :: https://www.codecademy.com
+
 ### Day 6: April 4, 2018
 
 **Today's Progress**: Completed the Calculator program on Codecademy. It was how I was passing the integers into the method. I was using: "public int add(a, b): when I should have been "public int add(int a, int b)". From there I cleaned up the rest of the syntax errors, ran the project and went on and did the next quiz. Started working on Arrays before realizing that there is another project for me to do so I will need to go back and do that tomorrow.
