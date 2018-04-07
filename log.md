@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 8: April 6, 2018
+
+**Today's Progress**: Started working on a simple student grade calculator, needed to spend more time learning about arrays as nothing I did worked.
+
+**Thoughts:** I am seriously struggling now. I didn't have a ton of time today to dig too deep in the code, but it was quickly made aware to me that I didn't have the required skills to do the project. I will need ot focus on it more tomorrow.
+
+**Link to work:** [Tutorial online]  :: https://www.codecademy.com
 
 ### Day 7: April 5, 2018
 
