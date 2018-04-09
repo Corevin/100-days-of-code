@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: April 9, 2018
+
+**Today's Progress**: Continued banging my head against Java Arrays. Still working on the student grade calculator and failing miserably.
+
+**Thoughts:** This is becoming rather frustrating. First on both Saturday and Sunday I attempted to do more work on coding, but on both days every time I started to do any work on it someone interrupted me and started talking to me. Made it impossible to even move forward the slightest bit. Today I dug back in and have spent an hour now hitting my head against the code. Nothing seems to work, all of the things I thought I knew, I clearly do not because I get compiler errors when trying to do them. I've gone back to Google in hopes of trying to figure this out as the codecademy lessons clarly aren't ringing true for me somehow. using: https://www.geeksforgeeks.org/arrays-in-java/ next.
+
+**Link to work:** [Tutorial online]  :: https://www.codecademy.com
+
 ### Day 8: April 6, 2018
 
 **Today's Progress**: Started working on a simple student grade calculator, needed to spend more time learning about arrays as nothing I did worked.
