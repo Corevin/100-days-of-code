@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10: April 10, 2018
+
+**Today's Progress**: Worked with excercises on variables, assignment and printing them out in different formats. Played around with print vs printlns. Reached out to the folks in the 100 days of code Slack to see if anyone had suggestions as Arrays have 100% mystified me.
+
+**Thoughts:** So instead of being fruatrated any longer, I decided to switch it up. A while back I purchased a bunch of Java books in a humble bundel lot and so I started reading one of those last night. I am in chapter 2 at this point of "Think Java" by Allen B. Downey and Chris Mayfield. It is a lot of review thus far, but I don't think it is a bad thing really. I am going to use it to review what i already know, and from there hopefully build up some. 
+
+I am currently saving the work I  am doing on my harddrive. I want to add it here to my 100 days of code fork, but haven't figured out how. I will have to take a look into it later today and see if I can figure it out.
+
+**Link to work:** [Tutorial online]  :: TBD (ADD ONCE I FIGURE OUT GITHUB)
+
 ### Day 9: April 9, 2018
 
 **Today's Progress**: Continued banging my head against Java Arrays. Still working on the student grade calculator and failing miserably.
