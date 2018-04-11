@@ -8,7 +8,8 @@
 
 I ended up asking in Slack about Arrays. I really don't like not understanding them. I got a couple of responses but, not really a huge help. One response was an article on Arrays in general; that was interesting but not quite what I was looking for. The other response was a request for the code I'd written. Sadly, the code I've written doesn't work and I don't think even I have enough there to share yet. I'll have to figure out what I'm going to do next.
 
-**Link to work:** [Tutorial online]  :: TBD (ADD ONCE I FIGURE OUT GITHUB)
+**Link to work:** Source Code on Git ::  100-days-of-code/src/Time.java
+
 
 
 ### Day 10: April 10, 2018
@@ -19,7 +20,7 @@ I ended up asking in Slack about Arrays. I really don't like not understanding t
 
 I am currently saving the work I  am doing on my harddrive. I want to add it here to my 100 days of code fork, but haven't figured out how. I will have to take a look into it later today and see if I can figure it out.
 
-**Link to work:** [Tutorial online]  :: TBD (ADD ONCE I FIGURE OUT GITHUB)
+**Link to work:** Source Code on Git ::  100-days-of-code/src/Date.java
 
 
 ### Day 9: April 9, 2018
