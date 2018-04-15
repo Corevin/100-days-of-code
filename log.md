@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+
+### Day 13: April 13, 2018
+
+**Today's Progress**: Started building the temperature converter excercise from the book. I created the main method along with the calculation itself, without setting up the input. I also set constants for the first time, using the final keyword.
+
+**Thoughts:** Someone along the way when I started teaching myself coding before told me it was more important to first get the actual program to work right and then from there begin working on how to get the input and make it pretty. It is sometimes too easy to fall into the love of making it fun and pretty so you forget the real goal of the project. I'm going to take that to heart this time and see if it helps.
+
+**Link to work:** Source Code on Git ::  100-days-of-code/src/Time.java
+
+### Day 12: April 12, 2018
+
+**Today's Progress**: Read the rest of chapter 3 of the book. Began looking at the excercises that need to be created and realized that I don't have time to start any today. I will have to pick it up tomorrow.
+
+**Thoughts:** I was wondering when the book would get to a point that it would teach about input from users. This seems like a pretty important set of commands that need to be known. Java has a pretty confusing to me at least way of doing it using the Scanner Utility. I'll have to re-read that section again to make sure I get it.
+
+**Link to work:** Source Code on Git ::  100-days-of-code/src/
+
 ### Day 11: April 11, 2018
 
 **Today's Progress**: Finished the chapter 2 of Think Java exercises. Built a program that takes the hours, minutes, and seconds variables (still need to look up how to accept inputs), and output them in a bunch of different ways as well as do a bunch of math functions on them to and report out the results.
