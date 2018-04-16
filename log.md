@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 15: April 16, 2018
+
+**Today's Progress**: Finished up the clean up of the Temp Converter program and completed my documentation of it. Noticed that I was asking for a farenheit temperature input when I needed a celsius. Also there were a couple of small funky things that needed clean up in the input. Begain the next project in the exercises 3-3, converting a number of seconds to hours, minutes, seconds.
+
+**Thoughts:** Just barely getting started on the next converter project. I understand why they have us do these, it makes you really think about how to come up with the end result you are looking for and break them down into small pieces. For the moment I am working on getting the hours and remainder. I'll then need to turn the remainder into minutes, then whatever is left into seconds. 
+
+**Link to work:** Source Code on Git ::  100-days-of-code/eclipse-workspace/TempConverter/ , 100-days-of-code/eclipse-workspace/SecondstoHours/
+
+
+
+### Day 14: April 15, 2018
+
+**Today's Progress**: Worked on the temp converter program for a while, cleaned up the calculation so that it was much easier to read. Updated the comments with what needed to be done. Adjusted the output to match the expected required out put from the exercise using the printf keyword. Started the effort on reading in the temperature from the keyboard. 
+
+**Thoughts:** Definitely made really good progress today, got almost everything done before I needed to stop for the day. Some days I really get into it and want to keep going beyond the time I have. I think that's probably a good sign since it hasn't yet bored me to a point where I wander as quickly as I can.
+
+**Link to work:** Source Code on Git ::  100-days-of-code/eclipse-workspace/TempConverter/
 
 ### Day 13: April 13, 2018
 
@@ -7,7 +24,7 @@
 
 **Thoughts:** Someone along the way when I started teaching myself coding before told me it was more important to first get the actual program to work right and then from there begin working on how to get the input and make it pretty. It is sometimes too easy to fall into the love of making it fun and pretty so you forget the real goal of the project. I'm going to take that to heart this time and see if it helps.
 
-**Link to work:** Source Code on Git ::  100-days-of-code/src/Time.java
+**Link to work:** Source Code on Git ::  100-days-of-code/eclipse-workspace/TempConverter/
 
 ### Day 12: April 12, 2018
 
@@ -15,7 +32,7 @@
 
 **Thoughts:** I was wondering when the book would get to a point that it would teach about input from users. This seems like a pretty important set of commands that need to be known. Java has a pretty confusing to me at least way of doing it using the Scanner Utility. I'll have to re-read that section again to make sure I get it.
 
-**Link to work:** Source Code on Git ::  100-days-of-code/src/
+**Link to work:** Source Code on Git ::  100-days-of-code/eclipse-workspace/TempConverter/
 
 ### Day 11: April 11, 2018
 
