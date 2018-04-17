@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 16: April 17, 2018
+
+**Today's Progress**: Worked more on the hours/minutes/seconds calculator. Having trouble to figure out how I can do the different pieces correctly. Individually, I can figure out how to calculate the number of minutes, hours, seconds. The struggle that I need to work out how to remove the calculated number of seconds from the total. I will need to work that out tomorrow.
+
+**Thoughts:** Today was jsut a rough day. I am struggling to really figure out anything this morning. My brain is just dragging today. I think what I need to do is calculate the number of hours, remove that many seconds from the total seconds. Then figure out the number of minutes, and remove that number of seconds from the total. Finally that will leave me with the total number of seconds left. After that it is just a matter of accepting input, etc.
+
+**Link to work:** Source Code on Git ::  100-days-of-code/eclipse-workspace/TempConverter/ , 100-days-of-code/eclipse-workspace/SecondstoHours/
+
 ### Day 15: April 16, 2018
 
 **Today's Progress**: Finished up the clean up of the Temp Converter program and completed my documentation of it. Noticed that I was asking for a farenheit temperature input when I needed a celsius. Also there were a couple of small funky things that needed clean up in the input. Begain the next project in the exercises 3-3, converting a number of seconds to hours, minutes, seconds.
