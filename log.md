@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: May 1, 2018
+
+**Today's Progress**: Spent my time today really trying to figure out where I was when I stopped a couple of weeks ago. Got myself so I could see what I was doing, and then spent some time messing around with the output of minutes. Seems like what i was doing wrong and it was giving me a headache trying to figure out. Tomorrow back to getting the calculations right.
+
+**Thoughts:** Glad to be back in the saddle today. After being really sick for several days and then having some personal stuff go wrong at home I needed to get back to this as soon as I could. I am sure that I will feel better as I go deeper again into this.
+
+**Link to work:** Source Code on Git ::  100-days-of-code/eclipse-workspace/TempConverter/ , 100-days-of-code/eclipse-workspace/SecondstoHours/
+
 
 ### Day 16: April 17, 2018
 
